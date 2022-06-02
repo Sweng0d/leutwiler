@@ -6,6 +6,7 @@
 - 💼 Former Business Intelligence intern at Pagar.me
 - [📖 Foundry Book](https://github.com/foundry-rs/book) contributor
 
+
 <div align="center">
   <a href="https://github.com/Leutwiler">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=leutwiler&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
